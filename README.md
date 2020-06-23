@@ -14,16 +14,16 @@ https://www.lendingclub.com/info/download-data.action
 # Technologies:
 
 ## Programming Language: 
--Python
+- Python
 
 ## Libraries:
--Pandas
--Scikit-learn
+- Pandas
+- Scikit learn
 
 ### Visualization: 
--Matplotlib
--Seaborn
--Plotly
+- Matplotlib
+- Seaborn
+- Plotly
 
 Check out my presenation on the analysis.
 
