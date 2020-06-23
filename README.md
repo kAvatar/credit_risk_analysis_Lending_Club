@@ -25,7 +25,6 @@ https://www.lendingclub.com/info/download-data.action
 - Seaborn
 - Plotly
 
-Check out my presenation on the analysis.
 
 
 
